@@ -1,0 +1,31 @@
+h1 {
+  font-weight: 400;
+  font-size: 90px;
+}
+p {
+  margin-top: -45px;
+  font-size: 22px;
+  font-weight: 500;
+}
+.contentText {
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.popup {
+  height: 500px;
+  width: 800px;
+  background-color: red;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+}
+.popupButton {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
